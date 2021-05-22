@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I move boring projects to other websites.<br>
+Welp, hopefully this means all my repositories here are interesting 🙈
+
 <!--
 **ftvkyo/ftvkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
