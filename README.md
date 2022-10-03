@@ -7,7 +7,7 @@
   <br>_Java, LWJGL_
 - Q2 2020, [bears-and-ducks](https://github.com/rwxecut/bears-and-ducks). Trying #icantdraw jam, together with friends.
   <br>_Lua, Love_
-- Q3 2022, [baburu-kaosu](https://github.com/ftvkyo/baburu-kaosu). Having slightly more than average amount of fun with Godot.
+- Q1 2022, [baburu-kaosu](https://github.com/ftvkyo/baburu-kaosu). Having slightly more than average amount of fun with Godot.
   <br>_Godot_
 
 ### Programming languages related
