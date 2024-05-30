@@ -5,7 +5,7 @@ I do stuff.
 
 Visit my website for:
 - [My posts](https://www.ftvkyo.me/post/)
-- [My CV](https://www.ftvkyo.me/about/)
+- [My CV](https://www.ftvkyo.me/cv/)
 - [Some of my projects](https://www.ftvkyo.me/project/)
 
 ### Some other stuff
